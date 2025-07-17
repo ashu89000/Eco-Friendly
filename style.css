@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #5db839;
+  color: #2e7d32;
+}
+
+header {
+  background-color: #a5d6a7;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.image {
+  text-align: center;
+  margin: 20px 0;
+}
+
+img {
+  width: 260px;
+}
+
+.habits {
+  background-color: #e8f5e9;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.habits h2 {
+  text-align: center;
+  color: #1b5e20;
+}
+
+.habits ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.habits li {
+  margin: 10px 0;
+}
