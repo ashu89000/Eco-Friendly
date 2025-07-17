@@ -24,25 +24,3 @@ header h1 {
 img {
   width: 260px;
 }
-
-.habits {
-  background-color: #e8f5e9;
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 20px;
-  border-radius: 10px;
-}
-
-.habits h2 {
-  text-align: center;
-  color: #1b5e20;
-}
-
-.habits ul {
-  list-style-type: square;
-  padding-left: 20px;
-}
-
-.habits li {
-  margin: 10px 0;
-}
